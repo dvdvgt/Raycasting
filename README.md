@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Screenshot.png" width="300">
+<img src="raycasting.gif" width="400">
 </p>
 
 # Raycasting
